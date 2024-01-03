@@ -1,0 +1,2 @@
+- Visit /
+- Visit /draft-enable
