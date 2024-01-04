@@ -1,2 +1,3 @@
-- Visit /
-- Visit /draft-enable
+- Visit [/](https://next-draft-fetch-cache.vercel.app/) and refresh a few times
+- Visit [/draft-enable](https://next-draft-fetch-cache.vercel.app/draft-enable) to enable draft mode
+- Visit [/](https://next-draft-fetch-cache.vercel.app/) again a refresh
